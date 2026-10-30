@@ -1,8 +1,4 @@
-"""Python tokenization and comment-safe preprocessing (Methods A and B).
 
-Everything here uses the standard ``tokenize`` module, which only *reads*
-the source text. Nothing is executed.
-"""
 from __future__ import annotations
 
 import builtins

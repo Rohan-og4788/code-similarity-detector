@@ -43,7 +43,7 @@ elif page == "Comparison Results":
                     No Active Analysis Loaded
                 </div>
                 <div style="color: #94A3B8; max-width: 500px; margin: 0 auto 24px auto; font-size: 0.92rem; line-height: 1.5;">
-                    Upload Python submissions to run the pairwise similarity engine, or load the academic demo suite to preview results immediately.
+                    Upload Python submissions to run the pairwise similarity engi`ne, or load the academic demo suite to preview results immediately.
                 </div>
             </div>
             """,
