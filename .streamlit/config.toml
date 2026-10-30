@@ -1,0 +1,13 @@
+[theme]
+base = "dark"
+primaryColor = "#6366F1"
+backgroundColor = "#0B1020"
+secondaryBackgroundColor = "#111827"
+textColor = "#F9FAFB"
+
+[server]
+# Per-file upload ceiling in MB (the app enforces its own, stricter limits too).
+maxUploadSize = 2
+
+[browser]
+gatherUsageStats = false
